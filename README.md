@@ -2,7 +2,7 @@
     mkdir drf_todo
     cd drf_todo
 or
-    git clone https://github.com/shivi74/DRF_Todo.git
+    clone this repository
 
 ### Create a virtualenv to isolate our package dependencies locally
     virtualenv env
